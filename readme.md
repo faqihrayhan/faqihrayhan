@@ -19,7 +19,7 @@
 
 ### 💡 What I'm Building
 
-> **Autonomous Trading AI Agent on Solana** — building agents that operate independently on-chain.
+> **Autonomous Trading AI Agent on Solana**  building agents that operate independently on-chain.
 > Also deploying and testing smart contracts on **Arc Testnet** with Foundry, and building a Python-based automation system for warehouse & accounting operations.
 
 <br>
