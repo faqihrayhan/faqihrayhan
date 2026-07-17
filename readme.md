@@ -10,7 +10,7 @@
 | 📍 **Location** | Bogor, Indonesia |
 | 💼 **Focus** | AI Agents, Blockchain, Automation |
 | 🔗 **Chains** | Solana, Arc Testnet |
-| 🌐 **Site** | [portfolio-link-kamu](#) |
+| 🌐 **Site** | [](#) |
 
 </td></tr>
 </table>
