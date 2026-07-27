@@ -12,9 +12,11 @@
 
 ### What I'm Building
 
-> Shipping an autonomous trading ai agent that executes fully on-chain on solana. 
+> Shipping an autonomous AI agent that executes fully on-chain on solana. 
 > also deploying and testing smart contracts on arc testnet with foundry, 
-> and building a python-based automation system for warehouse & accounting operations.
+> and building a python-based automation system for operations.
+
+---
 
 ### Tech Stack
 
@@ -65,16 +67,20 @@
   </tr>
 </table>
 
+---
+
 ### My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faqihrayhan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=00d4ff&text_color=c9d1d9&hide_rank=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqihrayhan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&hide_title=true" height="165" />
+  <img src="https://github-readme-stats-faqihrayhan.vercel.app/api?username=faqihrayhan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=00d4ff&text_color=c9d1d9&hide_rank=true&hide_title=true" height="165" />
+  <img src="https://github-readme-stats-faqihrayhan.vercel.app/api/top-langs/?username=faqihrayhan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&hide_title=true" height="165" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faqihrayhan&theme=dark&hide_border=true&background=000000&stroke=30363d&ring=00d4ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9" width="70%" />
 </div>
+
+---
 
 ### Contribute
 
@@ -85,7 +91,13 @@
 ---
 
 <div align="center">
-  <a href="https://twitter.com/faqihrayhan">x/twitter</a> · 
-  <a href="https://linkedin.com/in/faqihrayhan">linkedin</a> · 
-  <a href="mailto:your@email.com">email</a>
+  <a href="https://x.com/faqihrayhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/faqihrayhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:email-kamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
