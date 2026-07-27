@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-### Stats
+### My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faqihrayhan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=00d4ff&text_color=c9d1d9&hide_rank=true&hide_title=true" height="165" />
@@ -76,7 +76,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faqihrayhan&theme=dark&hide_border=true&background=000000&stroke=30363d&ring=00d4ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9" width="70%" />
 </div>
 
-### Snake
+### Contribute
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/faqihrayhan/faqihrayhan/output/github-contribution-grid-snake.svg" alt="contribution snake" />
