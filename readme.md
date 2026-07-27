@@ -1,60 +1,91 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:1E1B4B&height=180&text=Hi,%20I'm%20raymoon&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=Solana%20%7C%20Arc%20Testnet%20%7C%20AI%20Automation&descAlignY=75&descColor=C4B5FD" />
+<div align="center">
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Rayhan;Building+Autonomous+Agents;On+Solana+%26+Beyond" alt="typing header" />
+</a>
 
-<table align="center">
-<tr><td>
+<p style="color: #8b949e;">Autonomous AI Agent · Smart Contracts · Automation · Web Developer </p>
 
-|  |  |
-|---|---|
-| 📍 **Location** | Bogor, Indonesia |
-| 💼 **Focus** | AI Agents, Blockchain, Automation |
-| 🔗 **Chains** | Solana, Arc Testnet |
-| 🌐 **Site** | [](#) |
+</div>
 
-</td></tr>
+---
+
+### What I'm Building
+
+> Shipping an autonomous trading ai agent that executes fully on-chain on solana. 
+> also deploying and testing smart contracts on arc testnet with foundry, 
+> and building a python-based automation system for warehouse & accounting operations.
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
+      <br>PYTHON
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" />
+      <br>TYPESCRIPT
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="solidity" />
+      <br>SOLIDITY
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
+      <br>JAVASCRIPT
+    </td>
+     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="node.js" />
+      <br>NODE.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi" />
+      <br>FASTAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql" />
+      <br>POSTGRESQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
+      <br>DOCKER
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
+      <br>GIT
+    </td>
+       <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
+      <br>LINUX
+    </td>
+  </tr>
 </table>
 
-<br>
+### Stats
 
-### 💡 What I'm Building
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faqihrayhan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=00d4ff&text_color=c9d1d9&hide_rank=true&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqihrayhan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&hide_title=true" height="165" />
+</div>
 
-> **Autonomous Trading AI Agent on Solana**  building agents that operate independently on-chain.
-> Also deploying and testing smart contracts on **Arc Testnet** with Foundry, and building a Python-based automation system for warehouse & accounting operations.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faqihrayhan&theme=dark&hide_border=true&background=000000&stroke=30363d&ring=00d4ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9" width="70%" />
+</div>
 
-<br>
+### Snake
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/faqihrayhan/faqihrayhan/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry-282C34?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+---
 
-<br>
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faqihrayhan&show_icons=true&hide_border=true&theme=dracula" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqihrayhan&layout=compact&hide_border=true&theme=dracula" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=faqihrayhan&hide_border=true&theme=dracula" width="70%" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://x.com/faqihrayhan">𝕏 Twitter</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/faqihrayhan">LinkedIn</a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:6D28D9&height=80&section=footer" />
+<div align="center">
+  <a href="https://twitter.com/faqihrayhan">x/twitter</a> · 
+  <a href="https://linkedin.com/in/faqihrayhan">linkedin</a> · 
+  <a href="mailto:your@email.com">email</a>
+</div>
