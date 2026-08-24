@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Rayhan;Building+Autonomous+Agents;On+Solana+%26+Beyond" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Rayhan;Building+Agents+Tools;Smartcontract;WebApps" alt="typing header" />
 </a>
 
 <p style="color: #8b949e;">Autonomous AI Agent · Smart Contracts · Automation · Web Developer </p>
