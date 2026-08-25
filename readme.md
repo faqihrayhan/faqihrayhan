@@ -12,7 +12,7 @@
 
 ### What I'm Building
 
-> Shipping an autonomous AI agent that executes fully on-chain on solana, 
+> Shipping an autonomous AI agent that executes fully on-chain, 
 > also deploying and testing smart contracts on arc testnet with foundry, 
 > building a python-based automation system for operations.
 > and helping other people to creating their website. 
